@@ -5,3 +5,5 @@ dist
 .sass-cache
 /index.html
 .idea
+*.iml
+package-lock.json
