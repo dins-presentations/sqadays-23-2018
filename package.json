@@ -1,6 +1,6 @@
 {
   "name": "reveal-js-and-yeoman-is-awesomeness",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "private": true,
   "devDependencies": {
     "grunt": "^1.0.0",
@@ -23,6 +23,7 @@
     "url": "git@github.com:RocketRaccoon/sqadays-23-2018.git"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }

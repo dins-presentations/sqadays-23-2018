@@ -17,23 +17,24 @@
 
 
 // Include theme-specific fonts
+@import url(../bower_components/roboto-fontface/css/roboto/roboto-fontface.css);
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
 
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
-$backgroundColor: #222;
+$backgroundColor: #fafafa;
 
-$mainColor: #fff;
-$headingColor: #fff;
+$mainColor: #222;
+$headingColor: #222;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'Roboto-Regular', Helvetica, 'Source Sans Pro',  sans-serif;
+$headingFont: 'Roboto-Light', Helvetica, 'Source Sans Pro',  sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
-$headingTextTransform: uppercase;
+$headingTextTransform: none;
 $headingFontWeight: 600;
-$linkColor: #42affa;
+$linkColor: #527fc0;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
@@ -47,6 +48,31 @@ section.has-light-background {
 		color: #222;
 	}
 }
+
+.logo-container {
+    //display: inline-block;
+    position: absolute;
+    //top: 90%;
+    //right: 50%;
+    left: 30px;
+    bottom: 30px;
+    width: 160px;
+}
+
+.logo-upper {
+    bottom: 100px;
+}
+
+.logo-container #sqadays_logo {
+    width: 100%;
+    height: auto;
+}
+
+.logo-container #dins_logo {
+    width: 100%;
+    height: auto;
+}
+
 
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
