@@ -4,6 +4,11 @@
     ],
     [
         "0_introduction/10_ci_cd_principles.html",
-        "0_introduction/20_cd_is_easy.html"
+        "0_introduction/20_cd_is_easy.html",
+        "0_introduction/30_sla.html",
+        "0_introduction/40_what_is_rc.html",
+        "0_introduction/50_rc_arch.html",
+        "0_introduction/60_platform_arch.html",
+        "0_introduction/70_we_did_ci.html"
     ]
 ]
