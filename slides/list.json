@@ -15,7 +15,6 @@
     ],
     [
         "1_solution/00_types_of_testing.html",
-        "1_solution/05_ideology.html",
         "1_solution/10_no_envs.html",
         "1_solution/20_component_testing.html",
         "1_solution/25_pact.html",
@@ -26,6 +25,11 @@
         "1_solution/50_prod_like_test.html",
         "1_solution/55_prod_like_issues.html",
         "1_solution/60_prod_test.html",
-
+        "1_solution/70_merge.html"
+    ],
+    [
+        "2_msci/00_msci_intro.html",
+        "2_msci/10_testing_stages.html",
+        "2_msci/15_msci_stages.html"
     ]
 ]
