@@ -13,5 +13,9 @@
         "0_introduction/80_testing.html",
         "0_introduction/85_testing.html",
         "0_introduction/90_we_did_ci.html"
+    ],
+    [
+        "1_solution/00_ideology.html",
+        "1_solution/05_types_of_testing.html"
     ]
 ]
