@@ -14,7 +14,18 @@
         "0_introduction/90_we_did_ci.html"
     ],
     [
-        "1_solution/00_ideology.html",
-        "1_solution/05_types_of_testing.html"
+        "1_solution/00_types_of_testing.html",
+        "1_solution/05_ideology.html",
+        "1_solution/10_no_envs.html",
+        "1_solution/20_component_testing.html",
+        "1_solution/25_pact.html",
+        "1_solution/28_pact_and_teams.html",
+        "1_solution/30_how_to_test.html",
+        "1_solution/40_cde.html",
+        "1_solution/45_cde_test.html",
+        "1_solution/50_prod_like_test.html",
+        "1_solution/55_prod_like_issues.html",
+        "1_solution/60_prod_test.html",
+
     ]
 ]
