@@ -1,1 +1,9 @@
-["index.md"]
+[
+    [
+        "0_introduction/00_index.html"
+    ],
+    [
+        "0_introduction/10_ci_cd_principles.html",
+        "0_introduction/20_cd_is_easy.html"
+    ]
+]
