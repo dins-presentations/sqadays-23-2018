@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
+    "bower": "^1.8.0",
     "grunt": "^1.0.0",
     "grunt-sass": "^2.0.0",
     "grunt-contrib-connect": "^1.0.2",
