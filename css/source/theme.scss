@@ -71,6 +71,10 @@ section.has-light-background {
     height: auto;
 }
 
+.reveal .slide-number {
+    font-size: 32px;
+}
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
