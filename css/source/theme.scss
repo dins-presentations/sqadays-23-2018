@@ -75,6 +75,85 @@ section.has-light-background {
     font-size: 32px;
 }
 
+.ci-is-easy {
+    text-transform: uppercase !important;
+}
+
+.roboto-thin {
+    font-family: 'Roboto-Thin', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 100 !important;
+}
+
+.roboto-light {
+    font-family: 'Roboto-Light', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 300 !important;
+}
+
+.roboto-regular {
+    font-family: 'Roboto-Regular', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 400 !important;
+}
+
+.roboto-medium {
+    font-family: 'Roboto-Medium', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 500 !important;
+}
+
+.roboto-bold {
+    font-family: 'Roboto-Bold', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 700 !important;
+}
+
+.roboto-black {
+    font-family: 'Roboto-Black', Helvetica, 'Source Sans Pro',  sans-serif !important;
+    font-weight: 900 !important;
+}
+
+
+.color-red {
+    color: #D64439 !important;
+}
+
+.color-yellow {
+    color: #ECBE13 !important;
+}
+
+.color-cyan {
+    color: #25BA8D !important;
+}
+
+.color-blue {
+    color:  #497CB2 !important;
+}
+
+.high-line {
+    line-height: 1.8 !important;
+}
+
+.flex-row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.flex-column-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.aligned-right {
+    align-items: flex-end;
+}
+
+.aligned-left {
+    align-items: flex-start;
+}
+
+.flex-column-container div {
+    line-height: 1.8;
+}
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
