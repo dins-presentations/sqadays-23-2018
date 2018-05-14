@@ -14,8 +14,8 @@
         "0_introduction/90_we_did_ci.html"
     ],
     [
-        "1_solution/00_types_of_testing.html",
         "1_solution/10_no_envs.html",
+        "1_solution/15_types_of_testing.html",
         "1_solution/20_component_testing.html",
         "1_solution/25_pact.html",
         "1_solution/28_pact_and_teams.html",
