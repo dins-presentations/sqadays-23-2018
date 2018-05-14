@@ -34,7 +34,6 @@
     ],
     [
         "2_msci/00_msci_intro.html",
-        "2_msci/10_testing_stages.html",
         "2_msci/15_msci_stages.html",
         "2_msci/30_source_control.html",
         "2_msci/40_release_planning.html",
