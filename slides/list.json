@@ -32,11 +32,11 @@
         "1_solution/50_prod_like_test.html",
         "1_solution/55_prod_like_issues.html",
         "1_solution/60_prod_test.html",
-        "1_solution/70_merge.html"
+        "1_solution/70_merge.html",
+        "1_solution/80_process_overview.html"
     ],
     [
         "2_msci/00_msci_intro.html",
-        "2_msci/10_testing_stages.html",
         "2_msci/15_msci_stages.html",
         "2_msci/20_msci_systems.html",
         "2_msci/30_source_control.html",
