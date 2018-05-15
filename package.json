@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:RocketRaccoon/sqadays-23-2018.git"
+    "url": "git@github.com:dins-presentations/sqadays-23-2018.git"
   },
   "scripts": {
     "test": "grunt test",
