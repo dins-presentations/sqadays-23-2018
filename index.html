@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Reveal.js and Yeoman is Awesomeness</title>
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+        <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
+
+        <link rel="stylesheet" href="css/theme.css" id="theme">
+
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <div class="slides">
+
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-html="slides/0_introduction/00_index.html"></section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-html="slides/0_introduction/10_ci_cd_principles.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/20_cd_is_easy.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/30_sla.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/40_what_is_rc.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/50_rc_arch.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/60_platform_arch.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/70_envs.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/80_testing.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/0_introduction/90_we_did_ci.html"></section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-background-image="resources/img/wordcloud.png" background-position="left" data-html="slides/1_solution/15_types_of_testing.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/20_component_testing.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/25_pact.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/28_pact_and_teams.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/30_how_to_test.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/40_cde.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/54_process_overview.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/1_solution/55_prod_like_issues.html"></section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-html="slides/2_msci/00_msci_intro.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/15_msci_stages.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/30_source_control.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/40_release_planning.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/50_ads.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/60_ci_server.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/2_msci/70_msci_diagram.html"></section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-html="slides/4_final/20_what_is_needed.html"></section>
+
+
+                            
+                                
+    <section data-html="slides/4_final/30_the_end.html"></section>
+
+
+                            
+                        </section>
+                    
+                
+            </div>
+            <div class="logo-container">
+                <img id="dins_logo" src="../resources/img/dins_logo.svg"/>
+            </div>
+
+            <div class="logo-container logo-upper">
+                <img id="sqadays_logo" src="../resources/img/sqadays_logo.png"/>
+            </div>
+
+        </div>
+
+        <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
+        <script src="bower_components/reveal.js/js/reveal.js"></script>
+        <script>
+
+          // Full list of configuration options available at:
+          // https://github.com/hakimel/reveal.js#configuration
+          Reveal.initialize({
+            controls: false,
+            progress: true,
+            history: true,
+            center: true,
+            showSlideNumber: true,
+            slideNumber: 'c/t',
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [
+              { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+            ]
+          });
+
+        </script>
+    </body>
+
+</html>

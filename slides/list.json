@@ -1,0 +1,45 @@
+[
+    [
+        "0_introduction/00_index.html"
+    ],
+    [
+        "0_introduction/10_ci_cd_principles.html",
+        "0_introduction/20_cd_is_easy.html",
+        "0_introduction/30_sla.html",
+        "0_introduction/40_what_is_rc.html",
+        "0_introduction/50_rc_arch.html",
+        "0_introduction/60_platform_arch.html",
+        "0_introduction/70_envs.html",
+        "0_introduction/80_testing.html",
+        "0_introduction/90_we_did_ci.html"
+    ],
+    [
+        {
+            "filename": "1_solution/15_types_of_testing.html",
+            "attr": {
+                "data-background-image": "resources/img/wordcloud.png",
+                "background-position": "left"
+            }
+        },
+        "1_solution/20_component_testing.html",
+        "1_solution/25_pact.html",
+        "1_solution/28_pact_and_teams.html",
+        "1_solution/30_how_to_test.html",
+        "1_solution/40_cde.html",
+        "1_solution/54_process_overview.html",
+        "1_solution/55_prod_like_issues.html"
+    ],
+    [
+        "2_msci/00_msci_intro.html",
+        "2_msci/15_msci_stages.html",
+        "2_msci/30_source_control.html",
+        "2_msci/40_release_planning.html",
+        "2_msci/50_ads.html",
+        "2_msci/60_ci_server.html",
+        "2_msci/70_msci_diagram.html"
+    ],
+    [
+        "4_final/20_what_is_needed.html",
+        "4_final/30_the_end.html"
+    ]
+]

@@ -1,0 +1,24 @@
+15	End-to-end
+15	Component
+15	Contract
+14	Configuration
+14	Integration
+13	Monitoring
+13	Shadowing
+13	Stress
+12	Compatibility
+12	Acceptance
+12	Chaos
+12	Load
+11	Property-Based
+11	Exploration
+11	Canarying
+11	Fuzz
+10	Backward
+10	Smoke
+9	Benchmarking
+9	High	Availability
+9	Unit
+9	A/B
+--------------------CloudConfig v2.3.2--------------------
+{"seed":29027,"ZM_shape":{"img":"/pics/shapes/ellipse.gif","thumb":"/pics/shapes/ellipse.thumb.gif","weightFactor":-13},"ZM_curShape":"ellipse","ZM_curTheme":"t12","ZM_userWeightAdjust":-62,"ZM_userGridSizeAdjust":18,"ZM_canvasWidth":1920,"ZM_canvasHeight":1080,"ZM_googleFont":"Roboto:normal:latin-ext","ZM_colorMode":"custom","ZM_gradientColors":[],"CO_shape":"circle","CO_backgroundColor":"rgb(250, 250, 250)","CO_colorArray":["rgb(34, 34, 34)","rgb(214, 68, 57)","rgb(236, 190, 19)","rgb(37, 186, 141)","rgb(73, 124, 178)"],"CO_drawMask":false,"CO_maskColor":"rgba(0, 0, 0, 0)","CO_fontFamily":"Roboto","CO_wordDirection":"hor","CO_inverted":false}
