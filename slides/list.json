@@ -45,7 +45,13 @@
             }
         },
         "1_solution/50_prod_like_test.html",
-        "1_solution/54_process_overview.html",
+        {
+            "filename": "1_solution/54_process_overview.html",
+            "attr": {
+                "data-background-image": "resources/img/process.png",
+                "data-background-transition": "slide"
+            }
+        },
         "1_solution/55_prod_like_issues.html"
     ],
     [
