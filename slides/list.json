@@ -67,7 +67,13 @@
         "2_msci/40_release_planning.html",
         "2_msci/50_ads.html",
         "2_msci/60_ci_server.html",
-        "2_msci/70_msci_diagram.html"
+        {
+            "filename": "2_msci/70_msci_diagram.html",
+            "attr": {
+                "data-background-image": "resources/img/pipeline.png",
+                "data-background-transition": "slide"
+            }
+        }
     ],
     [
         "3_final/20_what_is_needed.html",
