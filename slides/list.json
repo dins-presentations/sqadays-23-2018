@@ -35,7 +35,13 @@
                 "data-background-transition": "slide"
             }
         },
-        "1_solution/28_pact_frameworks.html",
+        {
+            "filename": "1_solution/28_pact_frameworks.html",
+            "attr": {
+                "data-background-image": "resources/img/cdc.png",
+                "data-background-transition": "slide"
+            }
+        },
         "1_solution/30_how_to_test.html",
         {
             "filename": "1_solution/40_cde.html",
@@ -77,7 +83,6 @@
     ],
     [
         "3_final/20_what_is_needed.html",
-        "3_final/30_the_end.html",
         "3_final/40_questions.html",
         "3_final/50_contacts.html"
     ]
