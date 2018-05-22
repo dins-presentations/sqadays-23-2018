@@ -5,13 +5,13 @@
     [
         "0_introduction/10_ci_cd_principles.html",
         "0_introduction/20_cd_is_easy.html",
-        "0_introduction/30_sla.html",
         "0_introduction/40_what_is_rc.html",
         "0_introduction/50_rc_arch.html",
         "0_introduction/60_platform_arch.html",
         "0_introduction/70_envs.html",
         "0_introduction/80_testing.html",
-        "0_introduction/90_we_did_ci.html"
+        "0_introduction/85_sla.html",
+        "0_introduction/90_problem.html"
     ],
     [
         {
@@ -35,7 +35,13 @@
                 "data-background-transition": "slide"
             }
         },
-        "1_solution/28_pact_frameworks.html",
+        {
+            "filename": "1_solution/28_pact_frameworks.html",
+            "attr": {
+                "data-background-image": "resources/img/cdc.png",
+                "data-background-transition": "slide"
+            }
+        },
         "1_solution/30_how_to_test.html",
         {
             "filename": "1_solution/40_cde.html",
@@ -63,15 +69,21 @@
                 "data-background-transition": "slide"
             }
         },
+        "2_msci/20_msci_systems.html",
         "2_msci/30_source_control.html",
         "2_msci/40_release_planning.html",
         "2_msci/50_ads.html",
         "2_msci/60_ci_server.html",
-        "2_msci/70_msci_diagram.html"
+        {
+            "filename": "2_msci/70_msci_diagram.html",
+            "attr": {
+                "data-background-image": "resources/img/pipeline.png",
+                "data-background-transition": "slide"
+            }
+        }
     ],
     [
         "3_final/20_what_is_needed.html",
-        "3_final/30_the_end.html",
         "3_final/40_questions.html",
         "3_final/50_contacts.html"
     ]
