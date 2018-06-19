@@ -5,6 +5,24 @@
         "0_introduction/10_ci_cd_principles.html",
         "0_introduction/20_cd_is_easy.html",
         "0_introduction/40_what_is_rc.html",
+        {
+            "attr": {
+                "data-background-image": "resources/img/google_maps.png",
+                "data-background-transition": "slide"
+            }
+        },
+        {
+            "attr": {
+                "data-background-image": "resources/img/stackoverflow.png",
+                "data-background-transition": "slide"
+            }
+        },
+        {
+            "attr": {
+                "data-background-image": "resources/img/reddit.png",
+                "data-background-transition": "slide"
+            }
+        },
         "0_introduction/50_rc_arch.html",
         "0_introduction/60_platform_arch.html",
         "0_introduction/70_envs.html",
@@ -48,15 +66,14 @@
                 "data-background-transition": "slide"
             }
         },
-        "1_solution/50_prod_like_test.html",
         {
             "filename": "1_solution/54_process_overview.html",
             "attr": {
-                "data-background-image": "resources/img/process.png",
+                "data-background-image": "resources/img/process_2.png",
                 "data-background-transition": "slide"
             }
         },
-        "1_solution/55_prod_like_issues.html",
+        "1_solution/56_you_forgot_about_sla.html",
 
         "2_msci/00_msci_intro.html",
         {
