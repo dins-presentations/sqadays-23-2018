@@ -5,6 +5,24 @@
         "0_introduction/10_ci_cd_principles.html",
         "0_introduction/20_cd_is_easy.html",
         "0_introduction/40_what_is_rc.html",
+        {
+            "attr": {
+                "data-background-image": "resources/img/google_maps.png",
+                "data-background-transition": "slide"
+            }
+        },
+        {
+            "attr": {
+                "data-background-image": "resources/img/stackoverflow.png",
+                "data-background-transition": "slide"
+            }
+        },
+        {
+            "attr": {
+                "data-background-image": "resources/img/reddit.png",
+                "data-background-transition": "slide"
+            }
+        },
         "0_introduction/50_rc_arch.html",
         "0_introduction/60_platform_arch.html",
         "0_introduction/70_envs.html",
